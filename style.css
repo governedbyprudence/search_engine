@@ -1,0 +1,17 @@
+#auto{
+    position: relative;
+    cursor: pointer;
+    width:200px;
+    
+}
+.options{
+    border: groove;
+    border-radius: 3px;
+    width: 100px;
+    cursor: pointer;
+    left:40%;
+}
+img{
+    height: 50px;
+    width: 100px;
+}
